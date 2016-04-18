@@ -17,9 +17,6 @@
         "url": "http://agafonkin.com/en/",
         "name": "Vladimir Agafonkin"
     },
-    "require": {
-        "robloach/component-installer": "*"
-    },
     "extra": {
         "component": {
             "scripts": [
