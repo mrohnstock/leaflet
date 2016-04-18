@@ -2,7 +2,7 @@
     "name": "drmonty-leaflet",
     "description": "JavaScript library for mobile-friendly interactive maps http://leafletjs.com",
     "homepage": "http://leafletjs.com/",
-    "version": "0.7.7",
+    "version": "1.0.0-rc.1",
     "keywords": [
         "gis",
         "map"
@@ -17,6 +17,6 @@
     "main": "js/leaflet.min.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/drmonty/leaflet.git"
+        "url": "https://github.com/mrohnstock/leaflet.git"
     }
 }

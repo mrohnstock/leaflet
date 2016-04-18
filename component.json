@@ -2,7 +2,7 @@
     "name": "drmonty-leaflet",
     "repo": "drmonty/leaflet",
     "description": "JavaScript library for mobile-friendly interactive maps http://leafletjs.com",
-    "version": "0.7.7",
+    "version": "1.0.0-rc.1",
     "homepage": "http://leafletjs.com/",
     "keywords": [
         "gis",
