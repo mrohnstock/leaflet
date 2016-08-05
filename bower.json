@@ -2,7 +2,7 @@
     "name": "drmonty-leaflet",
     "description": "JavaScript library for mobile-friendly interactive maps http://leafletjs.com",
     "homepage": "http://leafletjs.com/",
-    "version": "1.0.0-rc.2",
+    "version": "1.0.0-rc.3",
     "keywords": [
         "gis",
         "map"
