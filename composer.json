@@ -24,6 +24,7 @@
             ],
             "files": [
                 "js/*.js",
+                "js/*.map",
                 "css/*.css",
                 "images/*.png"
             ]
